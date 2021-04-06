@@ -1,0 +1,12 @@
+Baca data type object esp achievement targets 1 2 3, seems important
+	- Convert to string
+	- Encode -> int
+Problem:
+- Ada achiev ada pencapaian (data test)
+- Null value wat to do (data train)
+	- Mean
+	- Median
+	- Modus
+	- Other algos?
+- Fitur yang dipakai(???) kabeh po ora
+- Sinau Gradient Boosting Machines
